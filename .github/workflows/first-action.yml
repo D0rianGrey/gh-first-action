@@ -2,7 +2,7 @@ name: First Workflow
 on: workflow_dispatch
 jobs:
   first_job:
-    name: Build
+    name: First job with 2 printing 
     runs-on: ubuntu-latest
     steps:
     
